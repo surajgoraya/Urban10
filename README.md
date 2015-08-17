@@ -5,9 +5,9 @@ The Windows Store team failed the app, I really didn't have the energy to re-sub
 for the developer Windows community instead.
 
 #Releases+Documentation:
-Documentation can be found here, under ["Documentation"](https://github.com/TheInterframe/Urban10/releases)
+Documentation can be found here, under ["Documentation"](https://github.com/TheInterframe/Urban10/wiki/Documentation)
 
-Releases can be found here, under ["Releases"](https://github.com/TheInterframe/Urban10/wiki/Documentation)
+Releases can be found here, under ["Releases"](https://github.com/TheInterframe/Urban10/releases)
 #License
 ###URBAN10
 The MIT License (MIT)
