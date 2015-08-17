@@ -5,8 +5,8 @@ The Windows Store team failed the app, I really didn't have the energy to re-sub
 for the developer Windows community instead.
 
 #License
-This library uses: 
-##NEWTONSOFT.JSON
+##This library uses: 
+###NEWTONSOFT.JSON
 The MIT License (MIT)
 
 Copyright (c) 2007 James Newton-King
@@ -17,7 +17,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##URBAN10
+###URBAN10
 Urban10:
 The MIT License (MIT)
 
