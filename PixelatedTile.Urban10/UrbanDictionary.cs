@@ -38,9 +38,13 @@ namespace PixelatedTile.Urban10
     /// </summary>
     public class UrbanDictionary
     {
+
+        #region Const API Strings
         private const string SEARCH_URL = "http://api.urbandictionary.com/v0/define?term=";
+        private const string RANDOM_URL = "http://api.urbandictionary.com/v0/random";
         private string _urbanSound;
-        
+        #endregion
+
         /// <summary>
         /// Find a word in Urban Dictionary
         /// </summary>
@@ -64,19 +68,15 @@ namespace PixelatedTile.Urban10
         }
 
         /// <summary>
-        /// returns the URL to the default audio transcription to the word.
+        /// Get random words/phrases
         /// </summary>
+        /// <returns>List: ResultsList</returns>
+        public async Task<List<ResultsList>> GetRandom(){
 
-        [Obsolete] //TODO: MAKE SURE THIS WORKS.
-        public string GetDefaultAudio {
-            get {
-                return _urbanSound;
-            }
-
+            HttpClient httpClient = new HttpClient();
+            var response = await httpClient.GetStringAsync(RANDOM_URL);
+            var urbanResults = JsonConvert.DeserializeObject<UrbanResults>(response);
+            return urbanResults.list;
         }
-
-
-
-
     }
 }

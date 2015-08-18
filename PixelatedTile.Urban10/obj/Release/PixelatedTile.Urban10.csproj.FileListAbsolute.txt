@@ -16,3 +16,21 @@ c:\users\suraj g\documents\visual studio 2015\Projects\PixelatedTile.Urban10\Pix
 c:\users\suraj g\documents\visual studio 2015\Projects\PixelatedTile.Urban10\PixelatedTile.Urban10\obj\Release\qualifiers.txt
 c:\users\suraj g\documents\visual studio 2015\Projects\PixelatedTile.Urban10\PixelatedTile.Urban10\obj\Release\qualifiers.txt.intermediate
 c:\users\suraj g\documents\visual studio 2015\Projects\PixelatedTile.Urban10\PixelatedTile.Urban10\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\bin\Release\PixelatedTile.Urban10.dll
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\bin\Release\PixelatedTile.Urban10.pdb
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\bin\Release\PixelatedTile.Urban10.pri
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\bin\Release\Newtonsoft.Json.dll
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\bin\Release\Newtonsoft.Json.xml
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\PixelatedTile.Urban10.dll
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\PixelatedTile.Urban10.pdb
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\priconfig.xml
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\priconfig.xml.intermediate
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\layout.resfiles
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\layout.resfiles.intermediate
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\resources.resfiles
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\resources.resfiles.intermediate
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\pri.resfiles
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\pri.resfiles.intermediate
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\qualifiers.txt
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\qualifiers.txt.intermediate
+C:\Users\Suraj G\Documents\GitHub\Urban10\PixelatedTile.Urban10\obj\Release\MultipleQualifiersPerDimensionFound.txt
