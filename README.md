@@ -9,7 +9,7 @@ Documentation can be found here, under ["Documentation"](https://github.com/TheI
 
 Releases can be found here, under ["Releases"](https://github.com/TheInterframe/Urban10/releases)
 #License
-## #URBAN10
+### URBAN10
 The MIT License (MIT)
 
 Copyright (c) 2015 Suraj "Interframe" G.
@@ -31,8 +31,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-##This library uses: 
-###NEWTONSOFT.JSON
+## This library uses: 
+### NEWTONSOFT.JSON
 The MIT License (MIT)
 
 Copyright (c) 2007 James Newton-King
